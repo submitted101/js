@@ -19,7 +19,7 @@ document.writeln("        var expiresDateString = expiresDate.toUTCString();");
 document.writeln("        // 设置 cookie，有效期为 1 天");
 document.writeln("        document.cookie = \'visited=true; expires=\' + expiresDateString;");
 document.writeln("        // 重定向到另一个页面");
-document.writeln("        window.location.href = \'https://jump.aoya.moe\';");
+document.writeln("        window.location.href = \'https://jump.chies.top\';");
 document.writeln("    }");
 document.writeln("}");
 document.writeln("");
